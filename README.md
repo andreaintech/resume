@@ -1,5 +1,4 @@
 # My Resume
-This is my curriculum vitae (resume)
 
 [You can check it out here](https://andreaintech.github.io/resume/)
 
